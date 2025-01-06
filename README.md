@@ -1,7 +1,7 @@
-# InventorySystem
+# UE5 Inventory Manager Plugin
 
 ## Overview
-The UE5-Inventory-Manager Plugin is a powerful and flexible system designed to be the base for a fully-fledged inventory system.
+The UE5-Inventory-Manager Plugin is a flexible system designed to be the base for a fully-fledged inventory system.
 
 ## Features
 * Customizable item lists and categories
