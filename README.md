@@ -30,6 +30,9 @@ The UE5-Inventory-Manager Plugin is a flexible system designed to be the base fo
 * InventoryItemType: enum that specifies item categories
 * In the plugin example directory, there is a data table, DT_ItemInfo that is used to store details for available items. If you decide to create a new data table be sure to update the DATA_TABLE_PATH define in InventoryFunctionLibrary.cpp so that the lookup function works correctly.
 
+## Demo Project
+[UE5 Inventory Manager Plugin Example](https://github.com/dtb1996/UE5-Inventory-Manager-Example)
+
 ## Support
 [bitgamingstudio@gmail.com](mailto:bitgamingstudio@gmail.com)
 
