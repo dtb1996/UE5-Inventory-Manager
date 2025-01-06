@@ -31,7 +31,7 @@ The UE5-Inventory-Manager Plugin is a powerful and flexible system designed to b
 * In the plugin example directory, there is a data table, DT_ItemInfo that is used to store details for available items. If you decide to create a new data table be sure to update the DATA_TABLE_PATH define in InventoryFunctionLibrary.cpp so that the lookup function works correctly.
 
 ## Support
-[Email](mailto:bitgamingstudio@gmail.com)
+[bitgamingstudio@gmail.com](mailto:bitgamingstudio@gmail.com)
 
 ## Attributions
 Pixel Art Icon Pack by B3rries (https://b3rries.itch.io/)
